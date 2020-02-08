@@ -1,8 +1,0 @@
-import React from 'react';
-import './App.css';
-
-function App() {
-  return 'Hi There'
-}
-
-export default App;
